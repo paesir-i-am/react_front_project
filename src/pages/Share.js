@@ -26,7 +26,7 @@ const Share = ({ isVisible, toggleShare }) => {
   const handleKakaoLogin = () => {
     const kakao = window.Kakao;
     if (!kakao.isInitialized()) {
-      kakao.init('9a6e95427a81d9b3ae61176476fbdb22'); // 카카오 앱 키
+      kakao.init('API KEY'); // 카카오 앱 키
     }
 
     kakao.Auth.authorize({

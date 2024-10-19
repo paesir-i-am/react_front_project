@@ -24,7 +24,7 @@ const LoginCallback = () => {
               },
               body: new URLSearchParams({
                 grant_type: 'authorization_code',
-                client_id: '9a6e95427a81d9b3ae61176476fbdb22',
+                client_id: 'API ID',
                 redirect_uri:
                   'http://localhost:3000/login/callback?platform=kakao',
                 code,

@@ -11,7 +11,7 @@ function Login() {
   useEffect(() => {
     if (typeof window.naver !== 'undefined') {
       const naverLoginInit = () => {
-        const clientId = 'hMdgE0nLXGeavMYiXrpD'; // 네이버 클라이언트 ID
+        const clientId = 'API ID'; // 네이버 클라이언트 ID
         const redirectURI =
           'http://localhost:3000/login/callback?platform=naver'; // 콜백 URL
 
@@ -42,7 +42,7 @@ function Login() {
   const handleKakaoLogin = () => {
     const kakao = window.Kakao;
     if (!kakao.isInitialized()) {
-      kakao.init('9a6e95427a81d9b3ae61176476fbdb22'); // 카카오 앱 키
+      kakao.init('KAKAO API KEY'); // 카카오 앱 키
     }
 
     kakao.Auth.authorize({

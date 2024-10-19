@@ -115,8 +115,8 @@ const Layout = () => {
     setLoading(true);
     setError(null);
     try {
-      const clientId = 'hMdgE0nLXGeavMYiXrpD';
-      const clientSecret = 'XCj2zvOYiD';
+    const clientId = 'API ID';
+      const clientSecret = 'API KEY';
       const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
       const apiUrl = `https://openapi.naver.com/v1/search/shop.json?query=${encodeURIComponent(category)}`;
 
