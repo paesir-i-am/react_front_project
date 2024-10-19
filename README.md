@@ -17,3 +17,6 @@
    *  10/10 useCallback 으로 handleAddToCart, handleCategorySelect 재사용
    *  10/10 관심상품 버튼 마이페이지 버튼으로 변경 -> 마이페이지 메인에 동적페이지 구성
    *  10/10 공유하기 url 링크 선택시 alert 추가하여 이용자에게 알림 추가하여 사용성 개선
+
+
+* 10/19 API KEY 비공개 / 수정 PPT 업로드 완
