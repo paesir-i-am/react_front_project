@@ -1,3 +1,54 @@
+# 개요
+----
+1. 리액트의 SPA를 이용하여 프론트엔드 프로젝트 구성
+2. 새로운 페이지의 타겟 설정
+: 모바일 점유율이 높아짐에 따라, 모바일 형식의 페이지 기반으로 웹페이지를 생성
+
+----
+# 개발일지
+* PPT : https://github.com/paesir-i-am/react_front_project/issues/9#issue-2687643235
+* 개발 디스코드 : https://discord.gg/xVK9Amtjbf
+----
+
+## 핵심기능
+1. 네이버 검색엔진 API
+2. 카카오 소셜로그인 API
+3. 게시판 및 카트 CRUD
+4. SPA 를 통한 카테고리 구현
+----
+
+## 플로우차트
+
+<img width="1525" alt="SCR-20241124-rxal" src="https://github.com/user-attachments/assets/9f4c8d81-add5-4ab5-b8b2-3da19ed12274">
+
+----
+
+## 시연영상
+
+![소셜로그인](https://github.com/user-attachments/assets/1f477d10-88b4-492b-98e5-dbbcd7314ad0)
+----
+![쇼핑리스트불러오기](https://github.com/user-attachments/assets/2fb84ee3-46c5-47f7-98ae-71e17bdb79c0)
+----
+![글 조회 수정 삭제 댓글 작성 ](https://github.com/user-attachments/assets/338a4088-f7d3-4754-867f-46b7b465f85d)
+----
+![견적공유](https://github.com/user-attachments/assets/ce722728-b7a9-4c46-8831-b03bbcd13d13)
+----
+![장바구니수정삭제](https://github.com/user-attachments/assets/858c6a6f-a853-4fd3-9ae7-ef8baae2e567)
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 수정사항
    *   10/8 수정사항
         장바구니 메인에서 개수표시 -> 장바구니에 length 함수로 표현 (수정완)
