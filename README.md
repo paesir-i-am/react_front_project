@@ -6,8 +6,9 @@
 
 ----
 # 개발일지
-* PPT : https://github.com/paesir-i-am/react_front_project/issues/9#issue-2687643235
-* 개발 디스코드 : https://discord.gg/xVK9Amtjbf
+* 시연영상      : https://youtu.be/sQD_WO7NG6c
+* PPT         : https://github.com/paesir-i-am/react_front_project/issues/9#issue-2687643235
+* 개발 디스코드  : https://discord.gg/xVK9Amtjbf
 ----
 
 ## 핵심기능
